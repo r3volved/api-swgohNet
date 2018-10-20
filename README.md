@@ -8,9 +8,9 @@ Run the client with your allycode and it will maintain your player profile in ou
 The client will seemingly sit idle, and report every 30-60 minutes on the stats of it's processing.
 Optionally supply the verbose keyword to see the requests statuses in your console as they're processed.
 
+Examples
 ```bash
-$ ./client-linux 123456789 [verbose]
+$ ./client-linux 123456789 verbose
 
-> client-win.exe 123456789 [verbose]
+> client-win.exe 123456789
 ```
-
