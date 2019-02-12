@@ -1,4 +1,4 @@
-# api-swgohNet v2.0.1
+# api-swgohNet v2.0.2
 Client for swgohNet - api.swgoh.help updating network
 
 As a thank you from swgoh.help, this client is built with a 30-minute auto updater...
