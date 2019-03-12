@@ -1,4 +1,4 @@
-# api-swgohNet v2.0.x
+# api-swgohNet v2.1.x
 Client for swgohNet - api.swgoh.help updating network
 
 As a thank you from swgoh.help, this client is built with a 30-minute auto updater...
@@ -12,4 +12,19 @@ Examples
 $ ./client-linux 123456789 verbose
 
 > client-win.exe 123456789
+```
+
+## Premium
+Find your premium key beside your name in api profile
+
+Runtime
+```bash
+$ ./client-linux premium=1234567898765 port=1234
+
+$ ./client-win.exe premium=1234567898765 port=1234
+```
+
+Request
+```
+http://localhost:1234/
 ```
